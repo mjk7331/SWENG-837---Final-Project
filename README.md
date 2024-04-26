@@ -27,7 +27,7 @@ Cloud Deployment Diagram
 I chose to use an AWS Deployment Diagram set up that includes a Virtual Private Cloud. Within the VPC, there are EC2 instances, a security group, API gateway, and lambda. Outside of the VPC, there is a Dynamo DB and an S3 bucket. The operator is symbolized by the user. The EC2 instance is used to run things virtually. The security group controls what goes in and out of the EC2 instance. The API gateway is used to access the sorting system. Lambda is in place to run the code after the phone is scanned. Dynamo DB is a NoSQL database needed for the sorting app. The S3 bucket is used to store the phone database information. 
 
 
-# UI:
+UI:
 The scanner contains a UI with phone database information. Once a phone is scanned, the location of the box is displayed on the UI. 
 
 
