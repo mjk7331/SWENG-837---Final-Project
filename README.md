@@ -30,4 +30,5 @@ I chose to use an AWS Deployment Diagram set up that includes a Virtual Private 
 UI:
 The scanner contains a UI with phone database information. Once a phone is scanned, the location of the box is displayed on the UI. 
 
-
+Video Link:
+https://youtu.be/tT6r2g3q6XQ
